@@ -9,3 +9,9 @@ E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dC
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Common\obj\Debug\Common.dll
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\Common\obj\Debug\Common.pdb
+C:\Users\Tomas\Source\Repos\AUS-projekat\Common\bin\Debug\Common.dll
+C:\Users\Tomas\Source\Repos\AUS-projekat\Common\bin\Debug\Common.pdb
+C:\Users\Tomas\Source\Repos\AUS-projekat\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Tomas\Source\Repos\AUS-projekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Source\Repos\AUS-projekat\Common\obj\Debug\Common.dll
+C:\Users\Tomas\Source\Repos\AUS-projekat\Common\obj\Debug\Common.pdb
